@@ -13,7 +13,6 @@
     height: auto;
     z-index: -100;
     margin:-6px;
-    /* overflow-x: hidden; */
 
 }
 #video-background2 {
@@ -272,6 +271,7 @@ body {
     background-size: 1230px;
     /* font-size: larger; */
     font-family: 'Genos', sans-serif;
+    overflow-x: hidden;
 }
 
 .nav-bar {
